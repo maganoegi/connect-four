@@ -1,0 +1,7 @@
+[package]
+name = "connect_four"
+version = "0.1.0"
+authors = ["Sergey Platonov <platserg94@yahoo.com>"]
+
+[dependencies]
+c4_lib = { path = "./c4_lib" }

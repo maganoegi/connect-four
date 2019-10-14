@@ -1,0 +1,8 @@
+[package]
+name = "c4_lib"
+version = "0.1.0"
+authors = ["Sergey Platonov <platserg94@yahoo.com>"]
+
+[dependencies]
+rust_hepia_lib = { path = "../../rust_hepia_lib" }
+colored = "1.6"
